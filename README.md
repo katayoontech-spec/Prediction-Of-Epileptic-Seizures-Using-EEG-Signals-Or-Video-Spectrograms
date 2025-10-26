@@ -27,4 +27,4 @@ If you want to rerun this project, it can be executed both in Google Colab and G
 
 ## ⚠️ Notes
 - A Google Colab Free account is sufficient.
-- 
+- You will need to increase your Google Drive storage from 15GB to 100GB.
