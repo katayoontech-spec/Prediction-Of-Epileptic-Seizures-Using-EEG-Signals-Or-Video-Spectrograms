@@ -16,7 +16,7 @@ If you want to rerun this project, it can be executed both in Google Colab and G
 - Final_Project_(5).ipynb
 
 ## ▶️ Open in Colab
-[Open in Colab](https://colab.research.google.com/github/katayoontech-spec/Recognition-Of-Food-Types-Estimation-Of-Their-Calorie-Content/blob/main/Food_Recognition%20(2).ipynb)
+[Open in Colab](https://colab.research.google.com/github/katayoontech-spec/Prediction-Of-Epileptic-Seizures-Using-EEG-Signals-Or-Video-Spectrograms/blob/main/Epileptic_Seizure_Prediction.ipynb)
 
 ## 🎬 Explanation video
 [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7386387536107159552/)
